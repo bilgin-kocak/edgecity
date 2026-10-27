@@ -1,0 +1,122 @@
+[
+ {
+  "id": "S1",
+  "name": "Said-By: receipts for every claim your agent makes about you",
+  "agg": 7.3,
+  "jury": 8.5,
+  "feasibility": 6,
+  "crowd": 7
+ },
+ {
+  "id": "S2",
+  "name": "Where's the Line: the village decides which agent actions need a human yes",
+  "agg": 6.5,
+  "jury": 8,
+  "feasibility": 8,
+  "crowd": 3
+ },
+ {
+  "id": "S12",
+  "name": "Chorus (with receipts)",
+  "agg": 6.4,
+  "jury": 7,
+  "feasibility": 5,
+  "crowd": 7
+ },
+ {
+  "id": "S13",
+  "name": "Go Dark: the whole Demo Day room saves the hatchlings",
+  "agg": 6.4,
+  "jury": 5.5,
+  "feasibility": 6,
+  "crowd": 8
+ },
+ {
+  "id": "S15",
+  "name": "Who Was Studied? A 'default male' label for health claims",
+  "agg": 6.4,
+  "jury": 5.5,
+  "feasibility": 9,
+  "crowd": 5
+ },
+ {
+  "id": "S3",
+  "name": "Proxy Test: does your agent know you better than your friend?",
+  "agg": 6.3,
+  "jury": 7.5,
+  "feasibility": 5,
+  "crowd": 6
+ },
+ {
+  "id": "S6",
+  "name": "The Will of Edge City India",
+  "agg": 6.3,
+  "jury": 7.5,
+  "feasibility": 4,
+  "crowd": 7
+ },
+ {
+  "id": "S8",
+  "name": "The Quiet Part: what the village believes but won't say",
+  "agg": 6.3,
+  "jury": 6,
+  "feasibility": 7,
+  "crowd": 6
+ },
+ {
+  "id": "S9",
+  "name": "Sound Alibi: a turtle-season quiet pact where the speed of sound is the witness",
+  "agg": 6,
+  "jury": 6,
+  "feasibility": 4,
+  "crowd": 8
+ },
+ {
+  "id": "S5",
+  "name": "Quorum: 'I'm in if seven others are'",
+  "agg": 5.9,
+  "jury": 6.5,
+  "feasibility": 5,
+  "crowd": 6
+ },
+ {
+  "id": "S4",
+  "name": "Everyone Did That: a mezzanine steward for village attention",
+  "agg": 5.7,
+  "jury": 6,
+  "feasibility": 6,
+  "crowd": 5
+ },
+ {
+  "id": "S14",
+  "name": "Local Share: did Edge India's rupees stay in Mandrem?",
+  "agg": 5.3,
+  "jury": 6.5,
+  "feasibility": 4,
+  "crowd": 5
+ },
+ {
+  "id": "S11",
+  "name": "The Empty Chair: a line to the people of Mandrem",
+  "agg": 5,
+  "jury": 8,
+  "feasibility": 2,
+  "crowd": 9
+ },
+ {
+  "id": "S10",
+  "name": "Owner's Verdict: Ground Floor outcomes in the owner's own voice",
+  "agg": 4,
+  "jury": 7,
+  "feasibility": 3,
+  "crowd": 6
+ },
+ {
+  "id": "S7",
+  "name": "Three Doors: Agent Village's research question, run live and preregistered",
+  "agg": 2.6,
+  "jury": 5,
+  "feasibility": 3,
+  "crowd": 4
+ }
+]
